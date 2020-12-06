@@ -1,0 +1,4 @@
+noun=fox,dogs,head,leg
+verb=jumps,lift,bites,licks
+adjective=quick,lazy,sleepy,ugly
+adverb=easily,noisily,excitedly,lazily
